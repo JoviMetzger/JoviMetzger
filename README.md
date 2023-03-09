@@ -1,4 +1,10 @@
-### Hi there 👋
+## ✨ Hi there ✨
+
+🍄 I'm Jovi
+
+🐝  Student at Codam 🇳🇱
+🥑  I’m currently working on: Push_swap
+🌱  I’m currently learning: C language
 
 <!--
 **JoviMetzger/JoviMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

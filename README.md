@@ -2,7 +2,7 @@
 
 - 🍄  I’m Jovi
 - 🐝  Student at Codam 🇳🇱
-- 🥑  I’m currently working on: Push_swap
+- 🥑  I’m currently working on: Minitalk
 - 🌱  I’m currently learning: C language
 
 <!--

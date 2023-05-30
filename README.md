@@ -2,7 +2,7 @@
 
 - 🍄  I’m Jovi
 - 🐝  Student at Codam 🇳🇱
-- 🥑  I’m currently working on: Philosophers
+- 🥑  I’m currently working on: Philosophers & Minishell
 - 🌱  I’m currently learning: C language
 
 <!--

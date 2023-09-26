@@ -3,7 +3,7 @@
 - 🍄  I’m Jovi
 - 🐝  Student at Codam 🇳🇱
 - 🥑  I’m currently working on: CPP Modules
-- 🌱  I’m currently learning: C & C++
+- 🌱  I’m currently learning: C/C++
 
 <!--
 **JoviMetzger/JoviMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

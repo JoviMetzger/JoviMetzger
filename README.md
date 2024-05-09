@@ -2,7 +2,7 @@
 
 - 🍄  I’m Jovi
 - 🐝  Student at Codam 🇳🇱
-- 🥑  I’m currently working on: CPP Modules
+- 🥑  I’m currently working on: MiniRT & Webserve
 - 🌱  I’m currently learning: C/ C++
 
 <!--

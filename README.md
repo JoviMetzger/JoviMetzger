@@ -1,4 +1,4 @@
-<h1 align="left">🍄 Hey there, I'm Jovi 🍄 </h1>
+<h1 align="center">🍄 Hey there, I'm Jovi 🍄 </h1>
 
 <h3 align="center"><i>
   I'm a student at Codam, passionate about graphic design and illustration.<br>
@@ -21,10 +21,10 @@
 
 ---
 
-- &nbs;&nbs; 🐝 &nbs;&nbs; **Student at Codam** 🇳🇱
-- &nbs;&nbs; 🥑 &nbs;&nbs; **I’m currently working on:** Webserve *&* Inception
-- &nbs;&nbs; 🌱 &nbs;&nbs; **I’m currently learning:** C *&* C++
-- &nbs;&nbs; 🍄 &nbs;&nbs; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)*
+- 🐝 **Student at Codam** 🇳🇱
+- 🥑 **I’m currently working on:** Webserve *&* Inception
+- 🌱 **I’m currently learning:** C *&* C++
+- 🍄 **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)*
 
 ---
 

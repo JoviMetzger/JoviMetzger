@@ -1,29 +1,3 @@
-## ✨ Hi there ✨
-
-- 🍄  I’m Jovi
-- 🐝  Student at Codam 🇳🇱
-- 🥑  I’m currently working on: Webserve
-- 🌱  I’m currently learning: C/ C++
-
-<!--
-**JoviMetzger/JoviMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<!--
 <h1 align="left">🍄 Hey there, I'm Jovi 🍄 </h1>
 
 <h3 align="center"><i>
@@ -45,7 +19,6 @@ Here are some ideas to get you started:
 
 -->
 
-<!--
 ---
 
 - &nbs;&nbs; 🐝 &nbs;&nbs; **Student at Codam** 🇳🇱
@@ -64,4 +37,18 @@ Here are some ideas to get you started:
 
 ![GitHub Snake](https://raw.githubusercontent.com/JoviMetzger/JoviMetzger/output/github-contribution-grid-snake.svg)
 
+
+<!--
+**JoviMetzger/JoviMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->

@@ -33,7 +33,7 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
-![snake gif](./dist/snake.svg)
+![snake gif](./assets/snake.svg)
 
 
 ![snake animation](https://github.com/JoviMetzger/blob/output/github-contribution-grid-snake2.svg)

@@ -3,20 +3,12 @@
 *I'm a student at Codam, passionate about graphic design and illustration.<br>
 I enjoy exploring new programming languages and immersing myself in various coding challenges.*
 
-<!--
-
-- portfolio
-- linkedin
-- freecamp
-
 <p align="left">
-   <a href="https://dewith.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
-   <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
-   <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
+   <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf"></a>
+   <a href="---"><img alt="LinkedIn" src="https://github.com/user-attachments/assets/cab4cf7a-a8e5-4be5-b6b7-86c2a28b3991"></a>
+   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db"></a>
 </p>
 
-![snake animation](https://github.com/JoviMetzger/blob/output/github-contribution-grid-snake2.svg)
--->
 
 ---
 
@@ -32,8 +24,12 @@ I enjoy exploring new programming languages and immersing myself in various codi
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange" />
 </a>
 
+
 ---
 
+<!--
+![snake animation](https://github.com/JoviMetzger/blob/output/github-contribution-grid-snake2.svg)
+-->
 
 <!--
 **JoviMetzger/JoviMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

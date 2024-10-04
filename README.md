@@ -12,14 +12,14 @@
 I enjoy exploring new programming languages and immersing myself in various coding challenges.*
 
 
----
+--
 
 &ensp; 🐝 &ensp; **Student at Codam** 🇳🇱 <br>
 &ensp; 🥑 &ensp; **I’m currently working on:** Webserve *&* Inception <br>
 &ensp; 🌱 &ensp; **I’m currently learning:** C *&* C++ <br>
 &ensp; 🍄 &ensp; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)* <br>
 
----
+--
 
 <a href="https://github.com/JoviMetzger">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" />
@@ -27,7 +27,7 @@ I enjoy exploring new programming languages and immersing myself in various codi
 </a>
 
 
----
+--
 
 <!--
 ![snake animation](https://github.com/JoviMetzger/blob/output/github-contribution-grid-snake2.svg)

@@ -15,6 +15,7 @@ I enjoy exploring new programming languages and immersing myself in various codi
    <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
 </p>
 
+![snake animation](https://github.com/JoviMetzger/blob/output/github-contribution-grid-snake2.svg)
 -->
 
 ---
@@ -27,17 +28,11 @@ I enjoy exploring new programming languages and immersing myself in various codi
 ---
 
 <a href="https://github.com/JoviMetzger">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=rose" />
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=rose" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=date_night" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=date_night" />
 </a>
 
 ---
-
-![snake gif](./assets/snake.svg)
-
-
-![snake animation](https://github.com/JoviMetzger/blob/output/github-contribution-grid-snake2.svg)
-
 
 
 <!--

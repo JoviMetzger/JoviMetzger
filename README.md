@@ -33,16 +33,11 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
-</picture>
+![snake gif](./dist/snake.svg)
 
 
 
 <!--
-![GitHub Snake](https://raw.githubusercontent.com/JoviMetzger/JoviMetzger/output/github-contribution-grid-snake.svg)
 **JoviMetzger/JoviMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,8 +1,8 @@
 name: Generate Snake Contribution Grid
 on:
   schedule:
-    - cron: "0 20 * * *" # Runs daily at 8 PM UTC
-  #workflow_dispatch: # Allows manual run
+    - cron: "0 20 * * *"  # This will run daily at 8 PM UTC
+  workflow_dispatch:  # This allows you to manually run the action via GitHub interface
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v2.0.0
         with:
-          github_user_name: JoviMetzger
+          github_user_name: JoviMetzger  # Set your GitHub username here
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

@@ -34,6 +34,8 @@ I enjoy exploring new programming languages and immersing myself in various codi
 ---
 
 ![snake gif](./dist/snake.svg)
+
+
 ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 

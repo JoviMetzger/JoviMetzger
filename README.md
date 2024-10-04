@@ -4,7 +4,7 @@
 I enjoy exploring new programming languages and immersing myself in various coding challenges.*
 
 <p align="left">
-   <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf"></a>
+   <a height="50px" href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf"></a>
    <a href="---"><img alt="LinkedIn" src="https://github.com/user-attachments/assets/cab4cf7a-a8e5-4be5-b6b7-86c2a28b3991"></a>
    <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db"></a>
 </p>

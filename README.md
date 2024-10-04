@@ -1,9 +1,7 @@
-<h1 align="center">🍄 Hey there, I'm Jovi 🍄 </h1>
+<h1 align="left">🍄 Hey there, I'm Jovi 🍄 </h1>
 
-<h3 align="center"><i>
-  I'm a student at Codam, passionate about graphic design and illustration.<br>
-  I enjoy exploring new programming languages and immersing myself in various coding challenges.
-</i></h3>
+*I'm a student at Codam, passionate about graphic design and illustration.<br>
+I enjoy exploring new programming languages and immersing myself in various coding challenges.*
 
 <!--
 
@@ -21,16 +19,24 @@
 
 ---
 
-- 🐝 **Student at Codam** 🇳🇱
-- 🥑 **I’m currently working on:** Webserve *&* Inception
-- 🌱 **I’m currently learning:** C *&* C++
-- 🍄 **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)*
+- &ensp 🐝 &ensp **Student at Codam** 🇳🇱
+- &ensp 🥑 &ensp **I’m currently working on:** Webserve *&* Inception
+- &ensp 🌱 &ensp **I’m currently learning:** C *&* C++
+- &ensp 🍄 &ensp **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)*
 
 ---
 
 <a href="https://github.com/JoviMetzger">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=great-gatsby" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=dark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=rose" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=calm_pink" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=rose" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=calm_pink" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=dark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graet-gatsby" />
 </a>
 
 ---

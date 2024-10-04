@@ -1,4 +1,4 @@
-<h1 align="left">🍄 Hey there, I'm Jovi 🍄 </h1>
+<h1 align="left">🌻 Hey there, I'm Jovi 🌻 </h1>
 
 <!--
 <p align="left">

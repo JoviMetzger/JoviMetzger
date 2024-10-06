@@ -8,7 +8,7 @@
 </p>
 -->
 
-*I'm a student at Codam, passionate about graphic design and illustration.<br>
+*I'm a student at Codam (42 The Network), passionate about graphic design and illustration.<br>
 I enjoy exploring new programming languages and immersing myself in various coding challenges.*
 
 

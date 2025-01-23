@@ -9,6 +9,12 @@
 I enjoy exploring new programming languages and immersing myself in various coding challenges.*
 
 ---
+
+&ensp; 🐝 &ensp; **Student at Codam** 🇳🇱 <br>
+&ensp; 🥑 &ensp; **I’m currently working on:** Transcendence <br>
+&ensp; 🌱 &ensp; **I’m currently learning:** C *&* C++ <br>
+&ensp; 🍄 &ensp; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)* <br>
+
 <p align="left">
     &emsp;&emsp;&emsp;
    <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf" style="width: 20px; height: 20px;"></a>
@@ -23,12 +29,6 @@ I enjoy exploring new programming languages and immersing myself in various codi
     &ensp;
     <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 6px; height: 6px;"></a>
 </p>
-
-&ensp; 🐝 &ensp; **Student at Codam** 🇳🇱 <br>
-&ensp; 🥑 &ensp; **I’m currently working on:** Transcendence <br>
-&ensp; 🌱 &ensp; **I’m currently learning:** C *&* C++ <br>
-&ensp; 🍄 &ensp; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)* <br>
-
 ---
 
 <a href="https://github.com/JoviMetzger">

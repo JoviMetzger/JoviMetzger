@@ -16,7 +16,7 @@
     &ensp;
     <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
     &ensp;
-    <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
+    <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; paddig-top: middle;"></a>
 </p>
 
 

@@ -8,15 +8,15 @@
     &ensp;
    <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
     &ensp;
-   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
+   <a href=""><img alt="Empty" src="..." style="width: 20px; height: 20px;"></a>
     &ensp;
-   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
+   <a href=""><img alt="Empty" src="..." style="width: 20px; height: 20px;"></a>
     &ensp;
-   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
+   <a href=""><img alt="Empty" src="..." style="width: 20px; height: 20px;"></a>
     &ensp;
-   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
+   <a href=""><img alt="Empty" src="..." style="width: 20px; height: 20px;"></a>
     &ensp;
-   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
+   <a href=""><img alt="Empty" src="..." style="width: 20px; height: 20px;"></a>
 </p>
 
 <!--

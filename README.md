@@ -8,8 +8,6 @@
     &ensp;
    <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
     &ensp;
-    <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
-    &ensp;
     <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
     &ensp;
     <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>

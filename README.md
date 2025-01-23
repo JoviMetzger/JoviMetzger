@@ -5,7 +5,6 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 <!--
 -->
-<br>
 <p align="left">
     &emsp;&emsp;&emsp;
    <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf" style="width: 20px; height: 20px;"></a>

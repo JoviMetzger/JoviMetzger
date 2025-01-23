@@ -1,41 +1,24 @@
 <h1 align="left">🌻 Hey there, I'm Jovi 🌻 </h1>
 
-<table>
-       &emsp;&emsp;&emsp;
-      <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf" style="width: 20px; height: 20px;"></a>
-       &ensp;
-      <a href="---"><img alt="LinkedIn" src="https://github.com/user-attachments/assets/cab4cf7a-a8e5-4be5-b6b7-86c2a28b3991" style="width: 20px; height: 20px;"></a>
-      &ensp;
-      <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
-      &ensp;
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      &ensp;
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      &ensp;
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      &ensp;
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      &ensp;
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-</table>
+<p align="left">
+    &emsp;&emsp;&emsp;
+   <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf" style="width: 20px; height: 20px; vertical-align: middle;"></a>
+    &ensp;
+   <a href="---"><img alt="LinkedIn" src="https://github.com/user-attachments/assets/cab4cf7a-a8e5-4be5-b6b7-86c2a28b3991" style="width: 20px; height: 20px; vertical-align: middle;"></a>
+    &ensp;
+   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px; vertical-align: middle;"></a>
+    &ensp;
+    <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
+    &ensp;
+    <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
+    &ensp;
+    <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
+    &ensp;
+    <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
+    &ensp;
+    <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px; vertical-align: middle;"></a>
+</p>
 
-
-
-
-<table>
-    <td>
-      <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf" style="width: 20px; height: 20px;"></a>
-      <a href="---"><img alt="LinkedIn" src="https://github.com/user-attachments/assets/cab4cf7a-a8e5-4be5-b6b7-86c2a28b3991" style="width: 20px; height: 20px;"></a>
-      <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
-    </td>
-    <td>
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-      <a><img alt="Empty" src="https://github.com/user-attachments/assets/3f225109-668c-443a-b0a4-828a145dc96c" style="width: 10px; height: 10px;"></a>
-    </td>
-</table>
 
 <!--
 -->

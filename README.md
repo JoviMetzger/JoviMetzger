@@ -5,7 +5,7 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 <!--
 <p align="left">
-   <a href="---"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf" style="width: 20px; height: 20px;"></a>
+   <a href="https://github.com/JoviMetzger"><img alt="Portfolio" src="https://github.com/user-attachments/assets/2ffee099-d0d1-410d-a54a-0b7a7ab417bf" style="width: 20px; height: 20px;"></a>
     &ensp;
    <a href="---"><img alt="LinkedIn" src="https://github.com/user-attachments/assets/cab4cf7a-a8e5-4be5-b6b7-86c2a28b3991" style="width: 20px; height: 20px;"></a>
     &ensp;

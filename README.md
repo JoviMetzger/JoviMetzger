@@ -9,7 +9,7 @@ I enjoy exploring new programming languages and immersing myself in various codi
     &ensp;
    <a href="---"><img alt="LinkedIn" src="https://github.com/user-attachments/assets/cab4cf7a-a8e5-4be5-b6b7-86c2a28b3991" style="width: 20px; height: 20px;"></a>
     &ensp;
-   <a href="---"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
+   <a href="https://www.freecodecamp.org/JoviMetzger"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 20px; height: 20px;"></a>
 </p>
 -->
 

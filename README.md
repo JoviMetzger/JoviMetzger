@@ -15,7 +15,7 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 &ensp; 🐝 &ensp; **Student at Codam** 🇳🇱 <br>
 &ensp; 🥑 &ensp; **I’m currently working on:** Myself <br>
-&ensp; 🌱 &ensp; **I’m currently learning:** C, C++, Kotlin <br>
+&ensp; 🌱 &ensp; **I’m currently learning:** C/C++, TypeScript, Kotlin <br>
 &ensp; 🍄 &ensp; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)* <br>
 
 ---

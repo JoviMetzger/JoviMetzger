@@ -28,9 +28,8 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
-<!--
-![snake animation](https://github.com/JoviMetzger/blob/output/github-contribution-grid-snake2.svg)
--->
+![snake animation](https://raw.githubusercontent.com/JoviMetzger/output/main/github-contribution-grid-snake2.svg)
+
 
 <!--
 **JoviMetzger/JoviMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

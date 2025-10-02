@@ -20,12 +20,10 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
-<!--
 <a href="https://github.com/JoviMetzger">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" />
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange" />
 </a>
--->
 
 
 ---

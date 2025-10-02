@@ -28,9 +28,8 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
-<!--
-![snake animation](https://jovimetzger.github.io/output/github-contribution-grid-snake2.svg)
--->
+![Snake animation](https://jovimetzger.github.io/output/github-contribution-grid-snake2.svg)
+
 
 
 <!--

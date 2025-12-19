@@ -37,22 +37,13 @@ I enjoy exploring new programming languages and immersing myself in various codi
 ![Shell](https://img.shields.io/badge/Shell-2e2e2e?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 -->
 
-&ensp; <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&hide_title=true&layout=compact&langs_count=6&theme=slateorange&hide_border=true" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&hide_title=true&layout=compact&langs_count=6&theme=slateorange&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger" style="height:200px;"/>
-</picture>
+<a href="https://github.com/JoviMetzger"> 
 
-
-&ensp; <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_border=true&hide_title=true&theme=slateorange" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_border=true&hide_title=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoviMetzger" style="height:200px;"/>
-</picture>
+   &ensp;<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange" />
+   
+   &ensp;<img height="200px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" /> 
+    
+</a>
 
 ---
 

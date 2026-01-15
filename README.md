@@ -41,6 +41,8 @@ I enjoy exploring new programming languages and immersing myself in various codi
 </a>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoviMetzger)](https://git.io/streak-stats)
+
 ---
 
 <!--

@@ -40,10 +40,23 @@ I enjoy exploring new programming languages and immersing myself in various codi
    <img height="300px" width="560px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" /> 
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange)](https://github.com/JoviMetzger)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange)](https://github.com/JoviMetzger)
 
+<a href="https://github.com/JoviMetzger">
+  <img
+    height="200"
+    width="450"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange"
+  />
+</a>
+
+<a href="https://github.com/JoviMetzger">
+  <img
+    height="300"
+    width="560"
+    src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange"
+  />
+</a>
 
 ---
 

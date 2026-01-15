@@ -40,9 +40,6 @@ I enjoy exploring new programming languages and immersing myself in various codi
    <img height="300px" width="560px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" /> 
 </a>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?username=JoviMetzger)](https://git.io/streak-stats)
-
 ---
 
 <!--

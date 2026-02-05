@@ -44,8 +44,6 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
-
-
 <!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"

@@ -44,6 +44,15 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
+![Metrics](https://raw.githubusercontent.com/JoviMetzger/JoviMetzger/main/github-metrics.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=JoviMetzger)
+![GitHub Streak](https://streak-stats.demolab.com?user=JoviMetzger)
+![Stars](https://img.shields.io/github/stars/JoviMetzger?style=flat)
+![Followers](https://img.shields.io/github/followers/JoviMetzger)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JoviMetzger)
+
+
+
 <!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"

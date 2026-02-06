@@ -11,6 +11,9 @@ I enjoy exploring new programming languages and immersing myself in various codi
    <a href="https://www.freecodecamp.org/JoviMetzger"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 30px; height: 30px;"></a>
 </p>
 
+![Stars](https://img.shields.io/github/stars/JoviMetzger?style=flat)
+![Followers](https://img.shields.io/github/followers/JoviMetzger)
+
 ---
 
 &ensp; 🔭 &ensp; **Intern at Forge B.V.** &ensp; 🖥️ <br>
@@ -35,32 +38,13 @@ I enjoy exploring new programming languages and immersing myself in various codi
 ![Shell](https://img.shields.io/badge/Shell-2e2e2e?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 -->
 
-
-
-
----
-
----
-
 <a href="https://github.com/JoviMetzger"> 
    <img height="200px" width="450px" src="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&show_icons=true&hide_title=true&hide_border=true&langs_count=6&theme=slateorange" />
    <img height="300px" width="560px" src="https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" /> 
 </a>
 
-![Stats](https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&theme=slateorange)
+![Stats](https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&bg_color=transparent&theme=slateorange)
 ![Top Langs](https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&langs_count=6&theme=slateorange)
-
-
-
-<a href="https://github.com/JoviMetzger"> 
-   <img height="200px" width="450px" src="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange" />
-   <img height="300px" width="560px" src="https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" /> 
-</a>
-
-<a href="https://github.com/JoviMetzger"> 
-   <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange" />
-   <img height="300px" width="560px" src="https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" /> 
-</a>
 
 ---
 

@@ -11,16 +11,18 @@ I enjoy exploring new programming languages and immersing myself in various codi
    <a href="https://www.freecodecamp.org/JoviMetzger"><img alt="freeCodeCamp" src="https://github.com/user-attachments/assets/8ae43b3e-036c-41fc-a0de-578af6d704db" style="width: 30px; height: 30px;"></a>
 </p>
 
-![Stars](https://img.shields.io/github/stars/JoviMetzger?style=flat)
-![Followers](https://img.shields.io/github/followers/JoviMetzger)
+![Stars](https://img.shields.io/github/stars/JoviMetzger?style=flat&label=⭐%20Starts)
+![Followers](https://img.shields.io/github/followers/JoviMetzger?style=flat&logo=github&label=Followers)
 
 ---
 
 &ensp; 🔭 &ensp; **Intern at Forge B.V.** &ensp; 🖥️ <br>
 &ensp; 🐝 &ensp; **Student at Codam** *(42 Network)* &ensp; 🇳🇱 <br>
-&ensp; 🥑 &ensp; **I’m currently working on:** Myself <br>
 &ensp; 🌱 &ensp; **Technical Skills:** C/C++, JavaScript <br>
 &ensp; 🍄 &ensp; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)* <br>
+
+<!-- &ensp; 🥑 &ensp; **I’m currently working on:**  <br> -->
+<!-- &ensp; 🐝 &ensp; **Codam Alumni** *(42 Network)* &ensp;🇳🇱 <br> -->
 
 ---
 
@@ -29,6 +31,8 @@ I enjoy exploring new programming languages and immersing myself in various codi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=scss&logoColor=ffffff)
 
 <!--
 &ensp; ![C](https://img.shields.io/badge/C-2e2e2e?style=for-the-badge&logo=c&logoColor=A8B9CC)
@@ -38,42 +42,31 @@ I enjoy exploring new programming languages and immersing myself in various codi
 ![Shell](https://img.shields.io/badge/Shell-2e2e2e?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 -->
 
-<a href="https://github.com/JoviMetzger"> 
-   <img height="200px" width="450px" src="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&show_icons=true&hide_title=true&hide_border=true&langs_count=6&theme=slateorange" />
-   <img height="300px" width="560px" src="https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=slateorange" /> 
-</a>
-
-![Stats](https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&bg_color=transparent&theme=slateorange)
-![Top Langs](https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&langs_count=6&theme=slateorange)
-
----
-
-<!--
-![Metrics](https://raw.githubusercontent.com/JoviMetzger/JoviMetzger/main/github-metrics.svg)
-![Trophy](https://github-profile-trophy.vercel.app/?username=JoviMetzger)
-![GitHub Streak](https://streak-stats.demolab.com?user=JoviMetzger)
--->
-
-![Stars](https://img.shields.io/github/stars/JoviMetzger?style=flat)
-![Followers](https://img.shields.io/github/followers/JoviMetzger)
-
-
-
-<!-- <picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=slateorange"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=solarized-light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture> -->
+  <img style="position: relative; left: 16px;" width="400px" src="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=solarized-light" />
+</picture>
 
-<!--
-![Snake animation](https://jovimetzger.github.io/output/github-contribution-grid-snake2.svg)
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=solarized-light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img style="position: relative; left: 16px;" width="400px" src="https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&hide_title=true&hide_border=true&theme=solarized-light" />
+</picture>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoviMetzger&theme=dark&hide_border=true)
 
 
 

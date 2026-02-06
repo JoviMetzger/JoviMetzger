@@ -38,9 +38,9 @@ I enjoy exploring new programming languages and immersing myself in various codi
 [![JoviMetzger GitHub stats](https://github-readme-stats.vercel.app/api?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange)](https://github.com/JoviMetzger/github-readme-stats)
 
 
-[![JoviMetzger GitHub stats](https://github-readme-stats-bay-ten-96.vercel.app/api?)
+[![JoviMetzger GitHub stats](https://github-readme-stats-bay-ten-96.vercel.app/api?)]
 
-[![JoviMetzger GitHub stats](https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange)](https://github.com/JoviMetzger/github-readme-stats)
+[![JoviMetzger GitHub stats](https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange)](https://github-readme-stats-bay-ten-96)
 
 [![JoviMetzger GitHub stats](https://github-readme-stats-bay-ten-96.vercel.app/api?username=JoviMetzger&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=slateorange)](https://github.com/JoviMetzger/github-readme-stats)
 

@@ -59,7 +59,7 @@ I enjoy exploring new programming languages and immersing myself in various codi
 <div style="display: block;">
     <picture>
     <source
-        srcset="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=slateorange"
+        srcset="https://github-readme-stats-jovimetzgers-projects.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=slateorange"
         media="(prefers-color-scheme: dark)"
     />
     <source

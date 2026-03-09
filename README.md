@@ -59,11 +59,11 @@ I enjoy exploring new programming languages and immersing myself in various codi
 <div style="display: block;">
     <picture>
     <source
-        srcset="github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=slateorange"
+        srcset="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=slateorange"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="github-readme-stats-jovimetzgers-projects.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=solarized-light"
+        srcset="https://github-readme-stats-jovimetzgers-projects.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=solarized-light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img style="position: relative; left: 16px;" width="400px" src="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=JoviMetzger&layout=compact&custom_title=Top%20Languages&show_icons=true&hide_border=true&langs_count=9&theme=solarized-light" />

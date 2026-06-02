@@ -16,13 +16,13 @@ I enjoy exploring new programming languages and immersing myself in various codi
 
 ---
 
-&ensp; 🔭 &ensp; **Intern at Forge B.V.** &ensp; 🖥️ <br>
-&ensp; 🐝 &ensp; **Student at Codam** *(42 Network)* &ensp; 🇳🇱 <br>
-&ensp; 🌱 &ensp; **Technical Skills:** C/C++, JavaScript <br>
-&ensp; 🍄 &ensp; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)* <br>
-
-<!-- &ensp; 🥑 &ensp; **I’m currently working on:**  <br> -->
+<!-- &ensp; 🔭 &ensp; **Intern at Forge B.V.** &ensp; 🖥️ <br> -->
 <!-- &ensp; 🐝 &ensp; **Codam Alumni** *(42 Network)* &ensp;🇳🇱 <br> -->
+&ensp; 🐝 &ensp; **Student at Codam** *(42 Network)* &ensp; 🇳🇱 <br>
+&ensp; 🌱 &ensp; **Technical Skills:** C/C++ <br>
+&ensp; 🍄 &ensp; **Hobbies:** Food, Sleep, Music, Series/Movies *(I'm very boring)* <br>
+&ensp; 🥑 &ensp; **I’m currently working on:** Libasm *(Learning Assembly)*  <br> 
+
 
 ---
 

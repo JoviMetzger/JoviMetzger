@@ -43,7 +43,7 @@ I enjoy exploring new projects and ideas, and taking on a variety of coding chal
 -->
 
 
-![Stars](https://img.shields.io/github/stars/JoviMetzger?style=flat&label=⭐%20Starts)
+![Stars](https://img.shields.io/github/stars/JoviMetzger?style=flat&label=⭐%20Stars)
 ![Followers](https://img.shields.io/github/followers/JoviMetzger?style=flat&logo=github&label=Followers)
 
 ---
